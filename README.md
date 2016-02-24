@@ -1,6 +1,7 @@
 # AndroidNote
 
 做些安卓记录
+
 一、四大组件
 1.关于Activity的
 2.关于Service的
