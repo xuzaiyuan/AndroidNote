@@ -20,6 +20,8 @@
 
 五、android动画
 
+安卓过渡动画入门介绍  http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0322/2631.html
+
 六、关于网络请求的
 
 七、一些开源项目
