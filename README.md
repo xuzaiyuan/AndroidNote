@@ -51,7 +51,9 @@ MediaPlayer 状态机 接口 方法 解析 http://blog.csdn.net/shulianghan/arti
 任玉刚      http://blog.csdn.net/singwhatiwanna?viewmode=contents
 Hongyang    http://blog.csdn.net/lmj623565791
 郭霖的专栏            http://blog.csdn.net/guolin_blog?viewmode=contents
-孙群                      http://blog.csdn.net/iispring?viewmode=contents 
-十、android studio
+孙群                  http://blog.csdn.net/iispring?viewmode=contents 
+android资料汇总       https://github.com/Freelander/Android_Data
 
+十、android studio
 android studio使用技巧    http://blog.csdn.net/growth58
+Android Studio 权威教程   http://blog.csdn.net/column/details/zsl-androidstudio.html
