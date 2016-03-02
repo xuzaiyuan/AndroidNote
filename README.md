@@ -6,11 +6,19 @@
 
 1.关于Activity的
 
+http://blog.csdn.net/zhaokaiqiang1992/article/details/49681321 Activity界面显示全解析
 2.关于Service的
+
+Android Service完全解析，关于服务你所需知道的一切(上) http://blog.csdn.net/guolin_blog/article/details/11952435
+Android中startService的使用及Service生命周期          http://blog.csdn.net/iispring/article/details/47689819
 
 3.关于BroadcastReceiver广播的
 
 4.关于ContentProvider的
+
+5.关于AsyncTask的
+
+Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/article/details/7983449
 
 二、 Android的消息机制
 
@@ -20,6 +28,7 @@
 
 五、android动画
 
+动画学习集合   http://www.lightskystreet.com/archives/
 安卓过渡动画入门介绍  http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0322/2631.html
 
 六、关于网络请求的
@@ -35,4 +44,14 @@ Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androids
 九、一些技术博客
 
 最详细的 NavigationDrawer 开发实践总结  http://www.jianshu.com/p/c8cbeb7ea43a#
+MediaPlayer 状态机 接口 方法 解析 http://blog.csdn.net/shulianghan/article/details/38487967
+修改Android签名证书keystore的密码、别名alias以及别名密码 http://blog.k-res.net/archives/1671.html
+凯子哥      http://blog.csdn.net/zha okaiqiang1992
+浪人的星空  http://blog.csdn.net/hitlion2008/article/list/1
+任玉刚      http://blog.csdn.net/singwhatiwanna?viewmode=contents
+Hongyang    http://blog.csdn.net/lmj623565791
+郭霖的专栏            http://blog.csdn.net/guolin_blog?viewmode=contents
+孙群                      http://blog.csdn.net/iispring?viewmode=contents 
+十、android studio
 
+android studio使用技巧    http://blog.csdn.net/growth58
