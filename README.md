@@ -24,6 +24,7 @@ Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/ar
 
 三、自定义View
 
+android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 四、事件分发机制
 
 五、android动画
