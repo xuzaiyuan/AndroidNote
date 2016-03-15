@@ -38,6 +38,8 @@ android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 
 类似秒拍滑动删除控件 SwipeCardView  https://github.com/xiepeijie/SwipeCardView
 《StackOverflow Java Top100问题》翻译协作版  https://github.com/giantray/stackoverflow-java-top-qa
+NodeFlow NodeFlow是一个实现树形内容展示的库。非常适合展示按类与子类组织的item   https://github.com/Telenav/NodeFlow
+
 八、关于Android Studio的
 
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
