@@ -29,7 +29,7 @@ Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/ar
 三、自定义View
 
 android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
-
+打造通用的Android下拉刷新组件(适用于ListView、GridView等各类View)  http://blog.csdn.net/bboyfeiyu/article/details/39718861
 四、事件分发机制
 
 五、android动画
