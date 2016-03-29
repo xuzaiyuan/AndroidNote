@@ -30,6 +30,7 @@ Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/ar
 
 android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 打造通用的Android下拉刷新组件(适用于ListView、GridView等各类View)  http://blog.csdn.net/bboyfeiyu/article/details/39718861
+
 四、事件分发机制
 
 五、android动画
@@ -47,7 +48,7 @@ android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 《StackOverflow Java Top100问题》翻译协作版  https://github.com/giantray/stackoverflow-java-top-qa
 
 NodeFlow NodeFlow是一个实现树形内容展示的库。非常适合展示按类与子类组织的item   https://github.com/Telenav/NodeFlow
-
+Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https://github.com/laobie/StatusBarUtil
 八、关于Android Studio的
 
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
