@@ -29,6 +29,7 @@ Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/ar
 三、自定义View
 
 android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
+
 打造通用的Android下拉刷新组件(适用于ListView、GridView等各类View)  http://blog.csdn.net/bboyfeiyu/article/details/39718861
 
 四、事件分发机制
@@ -48,13 +49,16 @@ android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 《StackOverflow Java Top100问题》翻译协作版  https://github.com/giantray/stackoverflow-java-top-qa
 
 NodeFlow NodeFlow是一个实现树形内容展示的库。非常适合展示按类与子类组织的item   https://github.com/Telenav/NodeFlow
+
 Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https://github.com/laobie/StatusBarUtil
+
+
 八、关于Android Studio的
 
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
 
 九、一些技术博客
-
+Android-transulcent-status-bar 状态栏  http://niorgai.github.io/2016/03/20/Android-transulcent-status-bar/
 最详细的 NavigationDrawer 开发实践总结  http://www.jianshu.com/p/c8cbeb7ea43a#
 
 MediaPlayer 状态机 接口 方法 解析 http://blog.csdn.net/shulianghan/article/details/38487967
