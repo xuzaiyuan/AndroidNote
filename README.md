@@ -52,6 +52,7 @@ NodeFlow NodeFlow是一个实现树形内容展示的库。非常适合展示按
 
 Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https://github.com/laobie/StatusBarUtil
 
+底部导航栏   https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 
 八、关于Android Studio的
 
