@@ -32,6 +32,8 @@ android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 
 打造通用的Android下拉刷新组件(适用于ListView、GridView等各类View)  http://blog.csdn.net/bboyfeiyu/article/details/39718861
 
+Android View事件机制 21问21答 http://www.cnblogs.com/punkisnotdead/p/5179115.html
+
 四、事件分发机制
 
 五、android动画
@@ -41,6 +43,8 @@ android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
 安卓过渡动画入门介绍  http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0322/2631.html
 
 六、关于网络请求的
+
+1.Gson使用指南 http://www.jianshu.com/p/e740196225a4
 
 七、一些开源项目
 
@@ -59,7 +63,9 @@ Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https:/
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
 
 九、一些技术博客
+
 Android-transulcent-status-bar 状态栏  http://niorgai.github.io/2016/03/20/Android-transulcent-status-bar/
+
 最详细的 NavigationDrawer 开发实践总结  http://www.jianshu.com/p/c8cbeb7ea43a#
 
 MediaPlayer 状态机 接口 方法 解析 http://blog.csdn.net/shulianghan/article/details/38487967
@@ -87,3 +93,4 @@ android资料汇总       https://github.com/Freelander/Android_Data
 android studio使用技巧    http://blog.csdn.net/growth58
 
 Android Studio 权威教程   http://blog.csdn.net/column/details/zsl-androidstudio.html
+
