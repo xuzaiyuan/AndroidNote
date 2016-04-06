@@ -55,6 +55,7 @@ Android View事件机制 21问21答 http://www.cnblogs.com/punkisnotdead/p/51791
 NodeFlow NodeFlow是一个实现树形内容展示的库。非常适合展示按类与子类组织的item   https://github.com/Telenav/NodeFlow
 
 Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https://github.com/laobie/StatusBarUtil
+仿qq侧滑删除listview https://github.com/baoyongzhang/SwipeMenuListView
 
 底部导航栏   https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 
