@@ -44,6 +44,8 @@ Android中自定义视图View之---前奏篇 http://blog.csdn.net/jiangwei091041
 
 安卓过渡动画入门介绍  http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0322/2631.html
 
+android - Animation详解 http://blog.csdn.net/liyide381/article/details/8532726
+
 六、关于网络请求的
 
 1.Gson使用指南 http://www.jianshu.com/p/e740196225a4
