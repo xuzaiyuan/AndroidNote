@@ -36,6 +36,8 @@ Android View事件机制 21问21答 http://www.cnblogs.com/punkisnotdead/p/51791
 
 Android中自定义视图View之---前奏篇 http://blog.csdn.net/jiangwei0910410003/article/details/42640665
 
+仿百度外卖下拉刷新           http://blog.csdn.net/lyhhj/article/details/51120539
+
 四、事件分发机制
 
 五、android动画
