@@ -103,4 +103,5 @@ android资料汇总       https://github.com/Freelander/Android_Data
 android studio使用技巧    http://blog.csdn.net/growth58
 
 Android Studio 权威教程   http://blog.csdn.net/column/details/zsl-androidstudio.html
+Gradle for Android      http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=402077232&idx=1&sn=3dbad41fba5588b8bb37de392d566b53#rd
 
