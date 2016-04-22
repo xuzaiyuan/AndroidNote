@@ -50,6 +50,8 @@ Android中自定义视图View之---前奏篇 http://blog.csdn.net/jiangwei091041
 
 android - Animation详解 http://blog.csdn.net/liyide381/article/details/8532726
 
+掌握 Coordinator Layout   https://www.aswifter.com/2015/11/12/mastering-coordinator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
 六、关于网络请求的
 
 1.Gson使用指南 http://www.jianshu.com/p/e740196225a4
