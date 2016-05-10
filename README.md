@@ -23,8 +23,10 @@ Android中startService的使用及Service生命周期          http://blog.csdn.
 Android实战技巧：深入解析AsyncTask  http://blog.csdn.net/hitlion2008/article/details/7983449
 
 6. Fragment详解系列 http://blog.csdn.net/harvic880925/article/details/44917955
-7. 
-Fragment全解析系列         http://www.jianshu.com/p/d9143a92ad94
+
+7. Fragment全解析系列         http://www.jianshu.com/p/d9143a92ad94
+
+FragmentNavigator          https://github.com/Aspsine/FragmentNavigator
 
 二、 Android的消息机制
 
