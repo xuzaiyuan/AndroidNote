@@ -60,6 +60,8 @@ CoordinatorLayout与滚动的处理  http://blog.csdn.net/yunnywu/article/detail
 
 七、一些开源项目
 
+通用的广告栏控件炫酷翻页特效  https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+
 类似秒拍滑动删除控件 SwipeCardView  https://github.com/xiepeijie/SwipeCardView
 
 《StackOverflow Java Top100问题》翻译协作版  https://github.com/giantray/stackoverflow-java-top-qa
