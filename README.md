@@ -30,6 +30,8 @@ FragmentNavigator          https://github.com/Aspsine/FragmentNavigator
 
 二、 Android的消息机制
 
+Android性能优化典范之多线程篇 http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577007&idx=1&sn=0786fca3a00c4d0a1b580999b2b7a0f5&scene=1&srcid=0520OEDbwx6tncGUOlTCjvp9#wechat_redirect
+
 三、自定义View
 
 android坐标详解       http://blog.csdn.net/yanbober/article/details/50419117
