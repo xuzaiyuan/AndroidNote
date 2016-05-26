@@ -44,6 +44,8 @@ Android中自定义视图View之---前奏篇 http://blog.csdn.net/jiangwei091041
 
 仿百度外卖下拉刷新           http://blog.csdn.net/lyhhj/article/details/51120539
 
+Android自定义控件三部曲文章索引 http://blog.csdn.net/harvic880925/article/details/50995268
+
 四、事件分发机制
 
 五、android动画
