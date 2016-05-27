@@ -46,6 +46,8 @@ Android中自定义视图View之---前奏篇 http://blog.csdn.net/jiangwei091041
 
 Android自定义控件三部曲文章索引 http://blog.csdn.net/harvic880925/article/details/50995268
 
+Android坐标系与View绘制流程 http://www.idtkm.com/customview/customview1/
+
 四、事件分发机制
 
 五、android动画
