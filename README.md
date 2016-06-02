@@ -61,6 +61,7 @@ android - Animation详解 http://blog.csdn.net/liyide381/article/details/8532726
 掌握 Coordinator Layout   https://www.aswifter.com/2015/11/12/mastering-coordinator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 CoordinatorLayout与滚动的处理  http://blog.csdn.net/yunnywu/article/details/49890975
+CoordinatorLayout与behavior交互 https://segmentfault.com/a/1190000005024216?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare
 
 六、关于网络请求的
 
@@ -81,7 +82,9 @@ Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https:/
 仿qq侧滑删除listview https://github.com/baoyongzhang/SwipeMenuListView
 
 底部导航栏   https://github.com/DevLight-Mobile-Agency/NavigationTabBar
+
 知乎日报     https://github.com/fewwind/ZhiHu-Daily
+
 八、关于Android Studio的
 
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
