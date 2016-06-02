@@ -59,7 +59,9 @@ Android坐标系与View绘制流程 http://www.idtkm.com/customview/customview1/
 android - Animation详解 http://blog.csdn.net/liyide381/article/details/8532726
 
 掌握 Coordinator Layout   https://www.aswifter.com/2015/11/12/mastering-coordinator/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+
 CoordinatorLayout与滚动的处理  http://blog.csdn.net/yunnywu/article/details/49890975
+
 六、关于网络请求的
 
 1.Gson使用指南 http://www.jianshu.com/p/e740196225a4
@@ -113,6 +115,10 @@ android资料汇总       https://github.com/Freelander/Android_Data
 十、android studio
 
 android studio使用技巧    http://blog.csdn.net/growth58
+
+十一、metro design
+
+http://www.lcode.org/design支持库tablayout打造仿网易新闻tab标签效果/
 
 Android Studio 权威教程   http://blog.csdn.net/column/details/zsl-androidstudio.html
 Gradle for Android      http://mp.weixin.qq.com/s?__biz=MzI4MzE2MTQ5Mw==&mid=402077232&idx=1&sn=3dbad41fba5588b8bb37de392d566b53#rd
