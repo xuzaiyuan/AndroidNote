@@ -69,6 +69,8 @@ CoordinatorLayout与behavior交互 https://segmentfault.com/a/1190000005024216?u
 
 七、一些开源项目
 
+常用工具类 https://github.com/h4de5ing/AndroidCommon
+
 通用的广告栏控件炫酷翻页特效  https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 
 类似秒拍滑动删除控件 SwipeCardView  https://github.com/xiepeijie/SwipeCardView
