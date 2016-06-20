@@ -88,6 +88,8 @@ Android 状态栏工具类（实现沉浸式状态栏/变色状态栏） https:/
 
 知乎日报     https://github.com/fewwind/ZhiHu-Daily
 
+那些酷炫的RecyclerView开源库整理 https://github.com/CameloeAnthony/Learning-RecyclerView
+
 八、关于Android Studio的
 
 Android Studio 权威教程     http://blog.csdn.net/column/details/zsl-androidstudio.html
