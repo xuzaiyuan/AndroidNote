@@ -120,7 +120,11 @@ Hongyang    http://blog.csdn.net/lmj623565791
 
 android资料汇总       https://github.com/Freelander/Android_Data
 
-算法                  http://p.codekk.com/detail/Android/Nightonke/LeeCo#0-tsina-1-66851-397232819ff9a47a7b7e80a40613cfe1
+算法                  http://p.codekk.com/detail/Android/Nightonke/LeeCo#0-tsina-1-66851-397232819ff9a47a7b7e80a40613cfe1
+并发编程             http://www.cnblogs.com/dolphin0520/category/602384.html
+
+
+
 
 十、android studio
 
